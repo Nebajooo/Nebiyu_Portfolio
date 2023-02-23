@@ -540,5 +540,11 @@ img {
 
 #onePic {
   width: 100px;
-  height: 50px;
+  height: 10px;
 }
+
+/* @media only screen and(min-width:600px) {
+  #onePic {
+    height: 30px;
+  }
+} */
