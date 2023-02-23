@@ -119,7 +119,8 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: rgb(125, 172, 248);
+  /* background-color: rgb(125, 172, 248); */
+  background-color: #4482f0;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
@@ -140,8 +141,9 @@ img {
     width: 80%;
     height: 100%;
     padding: 2rem;
-    background-color: var(--second-color);
-    transition: 0.5s;
+    /* background-color: var(--second-color); */
+    background-color: #1f2833;
+    transition: 3s;
   }
 }
 
@@ -534,4 +536,9 @@ img {
   .home__img {
     width: 450px;
   }
+}
+
+#onePic {
+  width: 100px;
+  height: 50px;
 }
