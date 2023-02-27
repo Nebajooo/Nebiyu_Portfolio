@@ -82,7 +82,7 @@ img {
   position: relative;
   font-size: var(--h2-font-size);
   /* color: var(--first-color); */
-  color: blue;
+  color: #4482f0;
   margin-top: var(--mb-2);
   margin-bottom: var(--mb-4);
   text-align: center;
